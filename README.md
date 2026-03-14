@@ -69,7 +69,7 @@ Dentro de cada uma você encontrará:
 
 ## 💬 Contato
 
-Me chame no [LinkedIn](https://www.linkedin.com/in/leonardo-sidrim/) ou envie um e-mail para: `leonardosidrim@gmail.com`
+Me chame no [LinkedIn](https://www.linkedin.com/in/leonardo-sidrim/) ou envie um e-mail para: `l.sidrim.dev@proton.me`
 
 ---
 
